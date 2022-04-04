@@ -6,8 +6,8 @@ def almost_double_factorial(n):
         if (i%2 == 1):
             res *= i
     return res
-    ```
-    ![image](https://user-images.githubusercontent.com/52165649/161512219-e9f9aeef-60c5-4d09-85f8-58492de24ca5.png)
+```    
+![image](https://user-images.githubusercontent.com/52165649/161512219-e9f9aeef-60c5-4d09-85f8-58492de24ca5.png)
 ```
 sorted_items = sorted(items, key=lambda x: x[1][-1])
 ```
@@ -18,14 +18,6 @@ x[::-2] = [-1, -3, -5]
 ![image](https://user-images.githubusercontent.com/52165649/161518206-15c5ab60-93ec-4f84-b7c8-a796cfe77a50.png)
 
 ```
-'''
-
-                            Online Python Compiler.
-                Code, Compile, Run and Debug python program online.
-Write your code in this editor and press "Run" button to execute it.
-
-'''
-
 
 def cumsum_and_erase(A = [], erase = 1):
     B = []
